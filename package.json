@@ -2,7 +2,7 @@
   "name": "open-ai-ui-ux-clone",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/anki0199/UI-UX-figma-to-website",
+  "homepage": "https://anki0199.github.io/UI-UX-figma-to-website",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
