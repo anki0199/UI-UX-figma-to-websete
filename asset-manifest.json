@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/UI-UX-figma-to-website/static/css/main.2f864f31.css",
-    "main.js": "/UI-UX-figma-to-website/static/js/main.a84cc389.js",
+    "main.js": "/UI-UX-figma-to-website/static/js/main.debad884.js",
     "static/media/ai.png": "/UI-UX-figma-to-website/static/media/ai.aa60586ba1ba53762d94.png",
     "static/media/possibility.png": "/UI-UX-figma-to-website/static/media/possibility.525f13b61a2157d44de0.png",
     "static/media/blog01.png": "/UI-UX-figma-to-website/static/media/blog01.cefc0932eae0d33a0342.png",
@@ -13,10 +13,10 @@
     "static/media/logo.svg": "/UI-UX-figma-to-website/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
     "index.html": "/UI-UX-figma-to-website/index.html",
     "main.2f864f31.css.map": "/UI-UX-figma-to-website/static/css/main.2f864f31.css.map",
-    "main.a84cc389.js.map": "/UI-UX-figma-to-website/static/js/main.a84cc389.js.map"
+    "main.debad884.js.map": "/UI-UX-figma-to-website/static/js/main.debad884.js.map"
   },
   "entrypoints": [
     "static/css/main.2f864f31.css",
-    "static/js/main.a84cc389.js"
+    "static/js/main.debad884.js"
   ]
 }
